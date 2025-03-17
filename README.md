@@ -20,7 +20,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript) - JAVASCRIPT
 
 ## Funcionalidades
-![Pantalla principal](/images/ejemplo.jpg)
+![Pantalla principal](/challenge-amigo-secreto_esp-main/assets/ejemplo.jpg)
 
 ## Autores ✒️
 
