@@ -13,8 +13,6 @@ https://code.visualstudio.com/insiders/
 ```
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [CSS](https://developer.mozilla.org/es/docs/Web/CSS) -CSS
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML)-HTML
 * [JAVASCRIPT](https://developer.mozilla.org/es/docs/Web/JavaScript) - JAVASCRIPT
